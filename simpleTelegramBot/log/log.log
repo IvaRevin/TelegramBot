@@ -1,0 +1,19 @@
+2021-01-11 13:13:02 INFO  Bot:60 - Бот создан!
+2021-01-11 13:13:46 INFO  Bot:60 - Бот создан!
+2021-01-11 13:15:49 INFO  Bot:60 - Бот создан!
+2021-01-11 13:38:11 INFO  Bot:60 - Бот создан!
+2021-01-11 13:42:07 INFO  Bot:60 - Бот создан!
+2021-01-11 13:42:09 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:42:09 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:42:11 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:42:11 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:42:13 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:42:13 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:47:01 INFO  Bot:60 - Бот создан!
+2021-01-11 13:47:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:47:03 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:47:05 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:47:05 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:47:07 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://api.telegram.org:443: Can't connect to SOCKS proxy:Connection refused: no further information
+2021-01-11 13:47:07 INFO  RetryExec:113 - Retrying request to {s}->https://api.telegram.org:443
+2021-01-11 13:48:32 INFO  Bot:60 - Бот создан!
